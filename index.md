@@ -28,6 +28,6 @@ if (coffee.empty) {
 - [x] I am happy
 - [ ] I like spicy food
 ## Picture of me
-!(https://presleyc-cheng.web.app/assets/me-bg2.png)
+![Picture of me](https://presleyc-cheng.web.app/assets/me-bg2.png)
 
 
