@@ -16,7 +16,8 @@ In the words of Dwayne "The Rock" Johnson:
 ## [Website](https://presleyc-cheng.web.app/)
 - [Portfolio Website](https://presleyc-cheng.web.app/)
 - [LinkedIn](https://www.linkedin.com/in/presley-cheng/)
-## [Navigate to README file](README.md)
+## Navigate to README file
+[README.md](README.md)
 ## How I function as a person:
 ```
 if (coffee.empty) {
