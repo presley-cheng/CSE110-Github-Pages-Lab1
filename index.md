@@ -10,7 +10,7 @@ I am an introvert who enjoys video games, movies, basketball, and badminton.
 1. Javascript
 2. C++
 3. Java
-## [Website](https://presleyc-cheng.web.app/)
+## Website
 - [Portfolio Website](https://presleyc-cheng.web.app/)
 - [LinkedIn](https://www.linkedin.com/in/presley-cheng/)
 ## Navigate to README file
