@@ -6,7 +6,7 @@ much as coding them. Coding is an absolute soothing experience to me. I am alway
 curious in finding new ways to solve something.
 ## Who I am as a Person
 I am an introvert who enjoys video games, movies, basketball, and badminton.
-### My Favorite Quote
+## My Favorite Quote
 In the words of Dwayne "The Rock" Johnson:
 > Focus on yourself until the others focus on you
 ## Favorite Programming Languages
