@@ -5,10 +5,10 @@ I am the kind of programmer who likes to ***play*** around with new learned tech
 much as coding them. Coding is an absolute soothing experience to me. I am always
 curious in finding new ways to solve something.
 ## Who I am as a Person
-> I am an introvert who enjoys video games, movies, basketball, and badminton.
+I am an introvert who enjoys video games, movies, basketball, and badminton.
 ## My Favorite Quote
 In the words of Dwayne "The Rock" Johnson:
-Focus on yourself until the others focus on you.
+>Focus on yourself until the others focus on you.
 ## Favorite Programming Languages
 1. Javascript
 2. C++
