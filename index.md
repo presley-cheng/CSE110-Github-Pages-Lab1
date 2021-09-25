@@ -8,8 +8,6 @@ curious in finding new ways to solve something.
 I am an introvert who enjoys video games, movies, basketball, and badminton.
 ### My Favorite Quote
 In the words of Dwayne "The Rock" Johnson:
-> Focus on yourself until the others focus on you
->
 ## Favorite Programming Languages
 1. Javascript
 2. C++
