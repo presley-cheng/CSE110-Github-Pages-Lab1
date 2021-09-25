@@ -6,9 +6,6 @@ much as coding them. Coding is an absolute soothing experience to me. I am alway
 curious in finding new ways to solve something.
 ## Who I am as a Person
 I am an introvert who enjoys video games, movies, basketball, and badminton.
-## My Favorite Quote
-In the words of Dwayne "The Rock" Johnson:
->Focus on yourself until the others focus on you.
 ## Favorite Programming Languages
 1. Javascript
 2. C++
@@ -30,5 +27,8 @@ if (coffee.empty) {
 - [ ] I like spicy food
 ## Picture of me
 ![Picture of me](https://presleyc-cheng.web.app/assets/me-bg2.png)
+## My Favorite Quote
+In the words of Dwayne "The Rock" Johnson:
+>Focus on yourself until the others focus on you.
 
 
